@@ -2,4 +2,4 @@
 
 echo "coba koding pake PHP";
 
- ?>
+?>
